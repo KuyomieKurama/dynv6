@@ -1,8 +1,8 @@
-module github.com/caddy-dns/dynv6
+module github.com/KuyomieKurama/dynv6
 
 go 1.15
 
 require (
+	github.com/KuyomieKurama/dynv6-libdns v1.1.0
 	github.com/caddyserver/caddy/v2 v2.3.0
-	github.com/libdns/dynv6 v1.0.0
 )

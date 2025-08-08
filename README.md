@@ -40,4 +40,4 @@ You can replace `{env.DYNV6_API_TOKEN}` with the actual auth token if you prefer
 
 ## Authenticating
 
-See [the associated README in the libdns package](https://github.com/libdns/dynv6) for important information about credentials.
+See [the associated README in the libdns package](https://github.com/KuyomieKurama/dynv6-libdns) for important information about credentials.
